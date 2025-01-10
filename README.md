@@ -23,8 +23,3 @@
 
 
 
-### E agora uma frase do Lord Escanor  🤫
-
-#### Não importa o quanto se esforce ou evolua você sempre estará abaixo do Sol!!😎
-
-## "Escanor"
