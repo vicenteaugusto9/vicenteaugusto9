@@ -50,7 +50,7 @@ Desenvolvedor Full-Stack focado em construir sistemas escaláveis e experiência
 ## 📫 Conecte-se comigo
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/vicenteaugusto] (https://www.linkedin.com/in/vicenteaugusto/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/vicenteaugusto/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.twitch.tv/VulgoVG" target="_blank">
