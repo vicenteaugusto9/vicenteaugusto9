@@ -39,7 +39,7 @@ Desenvolvedor Full-Stack focado em construir sistemas escaláveis e experiência
 
 ---
 
-## 📁 Projetos Estratégicos
+## 📁 Projetos build to learn
 
 * **⚡ Bold Stock (ERP):** Sistema robusto para gestão de inventário e fluxo de caixa. Focado em alta disponibilidade e relatórios precisos.
 * **🏥 Health SaaS:** Arquitetura multitenant para clínicas, priorizando a segurança da LGPD e o isolamento total de dados por ID de clínica.
