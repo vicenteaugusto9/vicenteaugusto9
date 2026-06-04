@@ -1,6 +1,6 @@
 # Olá, eu sou o Vicente Augusto 👋
 
-Desenvolvedor Full-Stack focado em construir sistemas escaláveis e experiências de usuário fluidas. Atualmente, curso **Analise e Desenvolvimento de Sistemas** e componho a equipe de desenvolvimento técnico na **Omnia Tech**.
+Desenvolvedor Full-Stack focado em construir sistemas escaláveis e experiências de usuário fluidas. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e sou Fundador e Líder de Desenvolvimento Técnico na **Omnia Tech**..
 
 ## 🚀 Sobre Mim
 
@@ -41,8 +41,8 @@ Desenvolvedor Full-Stack focado em construir sistemas escaláveis e experiência
 
 ## 📁 Projetos build to learn
 
-* **⚡ Bold Stock (ERP):** Sistema robusto para gestão de inventário e fluxo de caixa. Focado em alta disponibilidade e relatórios precisos.
-* **🏥 Health SaaS:** Arquitetura multitenant para clínicas, priorizando a segurança da LGPD e o isolamento total de dados por ID de clínica.
+* **⚡ Flow-ERP :** Sistema robusto para gestão de inventário e fluxo de caixa. Focado em alta disponibilidade e relatórios precisos.
+* **🏥 OdontoFlow:** Arquitetura multitenant para clínicas, priorizando a segurança da LGPD e o isolamento total de dados por ID de clínica.
 * **🤖 Bot de Promoções:** Automação inteligente via Telegram para monitoramento de ofertas em tempo real.
 
 ---
