@@ -1,6 +1,6 @@
 # Olá, eu sou o Vicente Augusto 👋
 
-Desenvolvedor Full-Stack focado em construir sistemas escaláveis e experiências de usuário fluidas. Atualmente, curso **Analise e Desenvolvimento de Sistemas** e componho a equipe de desenvolvimento técnico na **Zennith Studios**.
+Desenvolvedor Full-Stack focado em construir sistemas escaláveis e experiências de usuário fluidas. Atualmente, curso **Analise e Desenvolvimento de Sistemas** e componho a equipe de desenvolvimento técnico na **Omnia Tech**.
 
 ## 🚀 Sobre Mim
 
