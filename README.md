@@ -205,11 +205,6 @@ const vicente = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=augustos-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&hide_border=false&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustos-dev&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=3b82f6&text_color=94a3b8&hide_border=false" alt="Top Languages"/>
-
-</div>
 
 <div align="center">
 
