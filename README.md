@@ -183,10 +183,10 @@ const vicente = {
 <div align="center">
 
 <p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/vicenteaugusto">
     <img src="https://img.shields.io/badge/LinkedIn-16213e?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEU_EMAIL@email.com">
+  <a href="mailto:vicenteaugusto.dev@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email"/>
   </a>
   <a href="https://SEU_PORTFOLIO.com">
