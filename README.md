@@ -13,7 +13,7 @@
 
 ---
 
-## 👤 Olá, eu sou o Vicente Augusto
+## 👤 Praxer, me chamo Vicente Augusto
 
 Desenvolvedor Full-Stack focado em construir **sistemas escaláveis** e **experiências de usuário fluidas**. Curso Análise e Desenvolvimento de Sistemas e sou **Fundador e Líder de Desenvolvimento Técnico** na [Omnia Tech](https://github.com/augustos-dev).
 
