@@ -219,3 +219,4 @@ const vicente = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460,16213e,1a1a2e,0D1117&height=120&section=footer&fontSize=14&fontColor=475569&desc=Transformando+l%C3%B3gica+em+valor+e+caf%C3%A9+em+c%C3%B3digo.&descColor=475569&descSize=13" width="100%"/>
 
 </div>
+
